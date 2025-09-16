@@ -1,6 +1,6 @@
 # Smart Lenses – Application d’Assistance Visuelle Intelligente
 
-![Smart Lenses](images/screenshot.png)  <!-- Remplace par un screenshot si possible -->
+
 
 ## Description
 **Smart Lenses** est une application Android conçue pour aider les personnes malvoyantes ou non-voyantes à percevoir leur environnement.  
